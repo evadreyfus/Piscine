@@ -32,8 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="coords.cpp" />
+		<Unit filename="coords.h" />
+		<Unit filename="graph.cpp" />
 		<Unit filename="graph.h" />
+		<Unit filename="grman.cpp" />
+		<Unit filename="grman_couleurs.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="widget.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
