@@ -77,7 +77,11 @@
 #include <string>
 #include <memory>
 
-#include "grman/grman.h"
+#include "grman.h"
+#include "coords.h"
+#include "grman_couleurs.h"
+#include "widget.h"
+
 
 /***************************************************
                     VERTEX
